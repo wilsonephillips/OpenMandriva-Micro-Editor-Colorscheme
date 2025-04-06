@@ -5,9 +5,9 @@
  Press Ctl+Shft+s to save to your hard drive.
  File location ~/.config/micro/colorschemes/om-dark.micro
  
- open micro
- press Ctl+e
- type set colorscheme om-dark
- press Ctl+q
+ Open settings.json
+ Press Ctl+Shft+s to save to your hard drive.
+ File location ~/.config/micro/settings.json
+ Overwrite the one that exists as it is empty.
  
  Enjoy
